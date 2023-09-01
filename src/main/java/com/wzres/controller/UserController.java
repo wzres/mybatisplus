@@ -15,7 +15,7 @@ import java.util.List;
 public class UserController {
 
 
-    //GET请求：Query参数
+    //GET请求：Query参数(单独获取)
     public String query(){
         return null;
     }
