@@ -1,7 +1,7 @@
 package com.wzres.service;
 
-import com.wzres.domain.User;
 import com.baomidou.mybatisplus.extension.service.IService;
+import com.wzres.domain.User;
 
 /**
 * @author wz

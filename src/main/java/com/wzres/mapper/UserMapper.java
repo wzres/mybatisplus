@@ -1,7 +1,7 @@
 package com.wzres.mapper;
 
-import com.wzres.domain.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.wzres.domain.User;
 
 /**
 * @author wz
