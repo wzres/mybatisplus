@@ -20,23 +20,23 @@ public class UserController {
         return null;
     }
 
-    //Get请求：Query参数封装User
+    //Get请求：Query参数封装user
     public User querys(){
         return null;
     }
 
-    //POST请求：URL编码
+    //POST请求：请求体参数(URL编码)封装user
     public User Url(){
         return null;
     }
 
-    //POST请求：JSON编码
+    //POST请求：请求体参数(JSON编码)封装user
     public User json(){
         return null;
     }
 
-    //POST请求：JSON编码(集合)
-    public List<User> list(){
+    //POST请求：请求体参数(JSON编码)封装集合
+    public List<User> jsons(){
         return null;
     }
 
