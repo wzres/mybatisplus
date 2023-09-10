@@ -20,7 +20,7 @@ public class UserController {
         return null;
     }
 
-    //Get请求：Query参数封装user
+    //GET请求：Query参数封装user
     public User querys(){
         return null;
     }
